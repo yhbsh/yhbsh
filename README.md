@@ -1,4 +1,4 @@
-### Computer Science Passionate with mobile development, problem solving and public speaking.
+### Computer Science Passionate with mobile development, problem solving and tech startups.
 
 - I’m currently working on mobile full stack development, UI/UX Design and Problem Solving
 - I’m currently learning Flutter, Dart, Firebase, Django & Node & Express, Figma and Adobe Xd.
