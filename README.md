@@ -1,4 +1,4 @@
-### Senior Full Stack Flutter Mobile Engineer (Flutter & Dart)
+### Full Stack Flutter Mobile Engineer (Flutter & Dart)
 
 - I’m currently working on desktop/mobile full stack development, UI/UX Design
 - I’m currently learning new techs and especially video/audio call technologies.
