@@ -1,7 +1,5 @@
-### Full Stack Flutter Mobile Engineer (Flutter & Dart)
+### Mobile, Web, Systems!
 
-- I’m currently working on desktop/mobile full stack development, UI/UX Design
-- I’m currently learning new techs and especially video/audio call technologies.
-- I’m looking to Collaborate on creative app ideas.
-- Ask me about anything!
-- How to reach me: https://www.linkedin.com/in/youcef-houssem-eddine-bousmaha-20790a205/
+- Languages: C, C++, Rust, Go, Zig, Dart, Swift, Kotlin, Java.
+- Twitter: https://twitter.com/YOUCEFHOUSSEME1
+- Linkedin: https://www.linkedin.com/in/youcef-houssem-eddine-bousmaha-20790a205/
